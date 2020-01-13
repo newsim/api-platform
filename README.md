@@ -3,6 +3,8 @@
 API Platform is a next-generation web framework designed to easily create API-first projects without compromising extensibility
 and flexibility:
 
+# Simon Amoyal
+
 * Design your own data model as plain old PHP classes or [**import an existing one**](https://api-platform.com/docs/schema-generator)
   from the [Schema.org](https://schema.org/) vocabulary.
 * **Expose in minutes a hypermedia REST or a GraphQL API** with pagination, data validation, access control, relation embedding,
